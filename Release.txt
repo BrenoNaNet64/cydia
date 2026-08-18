@@ -1,0 +1,8 @@
+Origin: GamesAtHere
+Label: GamesAtHere
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Need some games?, install my font!
